@@ -1,0 +1,51 @@
+#submit_button
+{
+	margin-top: 20px; 
+	margin-bottom: 20px; 
+}
+#sort_button
+{
+	display: none;
+	margin-top: 20px; 
+	margin-bottom: 20px; 
+}
+
+input
+{
+	margin: 10px;
+}
+#showP2
+{
+	
+   margin: 50px;
+   color:#AA00FF;
+	border-radius: 10px;
+    width: 100%;
+}
+
+#showP1
+{
+
+    margin: 50px;
+    color:#AA00FF;
+	border-radius: 10px;
+    width: 100%;
+}
+
+div{
+	margin:10px;
+	width:48%;
+	color: #AA00FF;
+	font-family: 'Cinzel Decorative', cursive;
+}
+
+body{
+	background-image: url("Neon-Glow-Border-Frame-Background-Ultraviolet.jpg");
+	background-position: center;
+	background-size:cover ;
+}
+
+h1{
+	color: #18FFFF;
+	font-family: 'Bungee Shade', cursive;
+}
